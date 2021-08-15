@@ -1,0 +1,15 @@
+.main {
+    max-width: 1080px;
+    margin:0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.main p {
+    max-width: 300px;
+    font-style: italic;
+    font-size: 1.25em;
+    margin: 30px auto;
+}
